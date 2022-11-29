@@ -5,7 +5,7 @@
 # - 6 -> [1, 2, 6, 24, 120, 720]
 
 list = []
-size_list = int(input('введите число: '))
+size_list = int(input('Enter the number: '))
 factorial = 1
 for i in range(1, size_list + 1):
     factorial *= i
