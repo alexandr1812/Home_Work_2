@@ -24,6 +24,6 @@ print(arr)
 if 0 < pos_1 and pos_2 < len(arr):
     print(arr[pos_1 - 1]  * arr[pos_2 - 1])
 else:
-    print("There are no values for these indexes!")
+    print("There are no values for these position!")
 
 
