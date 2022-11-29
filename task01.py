@@ -7,7 +7,7 @@
 # - 0.67 -> 13
 # - 198.45 -> 27
 
-num = abs(float((input('Введите число: '))))
+num = abs(float((input('Enter floating point number: '))))
 sum = 0
 
 while not num.is_integer():
