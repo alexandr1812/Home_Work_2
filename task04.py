@@ -14,7 +14,7 @@
 # -> There are no values for these indexes!
 
     
-n = int(input('Введите число: '))
+n = int(input('Enter the number: '))
 arr = []
 pos_1 = int(input())
 pos_2 = int(input())
