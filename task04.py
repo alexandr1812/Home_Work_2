@@ -22,7 +22,7 @@ for i in range(-n, n + 1):
     arr.append(i)
 print(arr)
 if 0 < pos_1 and pos_2 < len(arr):
-    print(arr[pos_1 - 1]  * arr[pos_2 - 1])
+    print(arr[pos_1 - 1] * arr[pos_2 - 1])
 else:
     print("There are no values for these position!")
 
