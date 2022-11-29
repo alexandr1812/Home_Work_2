@@ -7,7 +7,7 @@
 # 14.071
 
 list = []
-num = int(input('Enter number:\n'))
+num = int(input('Enter the number:\n'))
 for n in range(1, num + 1):
     res = (1 + 1/n) ** n
     list.append(round(res, 3))
